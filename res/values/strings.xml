@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MWLogin</string>
+    <string name="api_path">https://test.wikipedia.org</string>
+    <string name="account_type_identifier">org.wikipedia.test</string>
+    <string name="user_agent">MediaWiki for Android Authenticator</string>
+    
+    
+    <string name="title_activity_login">Sign in to Wikimedia Commons</string>
+    <string name="login_subtitle">Login to upload media to commons</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="logging_in_title">Logging In</string>
+    <string name="logging_in_message">Witty text here</string>
+    <string name="login_success">Login success!</string>
+    <string name="login_failed">Login failed!</string>
+    <string name="authentication_failed">Authentication failed!</string>
+</resources>
